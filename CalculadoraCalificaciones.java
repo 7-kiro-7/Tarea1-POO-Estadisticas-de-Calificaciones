@@ -12,13 +12,13 @@ public class CalculadoraCalificaciones {
         int[] notas = new int[8]; //Se declara el arreglo.
         double a = 0; 
 
-        for(int i = 0; i<notas.length; i++){  // Aqui validaremos los datos de entrada.
+        for(int i = 0; i<notas.length; i++){  // Este for sirve como filtro ya que es la validación de los datos de entrada.
             boolean r = false;
             while (!r) {
                 try {
                     System.out.println("Nota "+ (i+1)+":");
                     notas[i] = t.nextInt();
-                    if (notas[i] < 0 || notas[i] > 100) {
+                    if (notas[i] < 0 || notas[i] > 100) { // No va a pasar ABSOLUTAMENTE NADA que no sea un entero entre 0 y 100.
                         System.out.println("fuera de rango (0-100)");
                     } else {
                         r = true;
@@ -45,7 +45,7 @@ public class CalculadoraCalificaciones {
         // 4. primero especificamos donde se va a guardar y despues el contenido que se guardara.
         escribirTextoEnArchivo(pruebasTxt, reporteFinal);
 
-        t.close();
+        t.close(); // Cierre del escaner.
     } // Fin del main
 
 
@@ -92,7 +92,7 @@ public class CalculadoraCalificaciones {
     }
 
 
-    public static String notas(int[] n){ 
+    public static String notas(int[] n){  // Esta función nos mostrara unicamente el conjunto de datos que estan en el array que los contiene.
         // Armamos el texto
         String resultado = "- - - INFORME DE CALIFICACIONES - - -\n\n";
         resultado += " - - - Notas obtenidas - - - \n\n";
@@ -111,7 +111,7 @@ public class CalculadoraCalificaciones {
            escritor.write("\n - - - - - - - - - - - - - -\n");
 
 
-            // Escribimos todo el reporte.
+            // Escribimos todo el reporte en el archivo txt.
             escritor.write(contenido); 
 
             escritor.newLine();
