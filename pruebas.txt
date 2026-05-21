@@ -1,0 +1,231 @@
+- - - INFORME DE CALIFICACIONES - - -
+
+ - - - Notas obtenidas - - - 
+
+[10, 10, 10, 10, 10, 10, 10, 10]
+
+ - - - Estadisticas importantes - - -
+
+Nota máxima: 10
+Nota minima: 10
+Promedio: 10.00
+
+- - - ANALISIS - - -
+
+Aprobados: 0
+Reprobados: 8
+% de aprobados: 0.0
+
+ - - - - - - - - - - - - - -REPORTE DE CALIFICACIONES
+ - - - - - - - - - - - - - -- - - INFORME DE CALIFICACIONES - - -
+
+ - - - Notas obtenidas - - - 
+
+[10, 10, 10, 10, 10, 10, 10, 10]
+
+ - - - Estadisticas importantes - - -
+
+Nota máxima: 10
+Nota minima: 10
+Promedio: 10.00
+
+- - - ANALISIS - - -
+
+Aprobados: 0
+Reprobados: 8
+% de aprobados: 0.0
+
+
+ - - - - - - - - - - - - - -REPORTE DE CALIFICACIONES
+ - - - - - - - - - - - - - -- - - INFORME DE CALIFICACIONES - - -
+
+ - - - Notas obtenidas - - - 
+
+[99, 99, 99, 99, 99, 99, 99, 99]
+
+ - - - Estadisticas importantes - - -
+
+Nota máxima: 99
+Nota minima: 99
+Promedio: 99.00
+
+- - - ANALISIS - - -
+
+Aprobados: 8
+Reprobados: 0
+% de aprobados: 100.0
+
+
+ - - - - - - - - - - - - - -REPORTE DE CALIFICACIONES
+ - - - - - - - - - - - - - -- - - INFORME DE CALIFICACIONES - - -
+
+ - - - Notas obtenidas - - - 
+
+[45, 65, 98, 48, 65, 23, 19, 35]
+
+ - - - Estadisticas importantes - - -
+
+Nota máxima: 98
+Nota minima: 19
+Promedio: 49.75
+
+- - - ANALISIS - - -
+
+Aprobados: 1
+Reprobados: 7
+% de aprobados: 12.5
+
+
+ - - - - - - - - - - - - - -
+REPORTE DE CALIFICACIONES
+ - - - - - - - - - - - - - -
+- - - INFORME DE CALIFICACIONES - - -
+
+ - - - Notas obtenidas - - - 
+
+[10, 20, 30, 40, 50, 60, 70, 80]
+
+ - - - Estadisticas importantes - - -
+
+Nota máxima: 80
+Nota minima: 10
+Promedio: 45.00
+
+- - - ANALISIS - - -
+
+Aprobados: 2
+Reprobados: 6
+% de aprobados: 25.0
+
+
+ - - - - - - - - - - - - - -
+REPORTE DE CALIFICACIONES
+ - - - - - - - - - - - - - -
+- - - INFORME DE CALIFICACIONES - - -
+
+ - - - Notas obtenidas - - - 
+
+[1, 1, 1, 1, 1, 1, 1, 1]
+
+ - - - Estadisticas importantes - - -
+
+Nota máxima: 1
+Nota minima: 1
+Promedio: 1.00
+
+- - - ANALISIS - - -
+
+Aprobados: 0
+Reprobados: 8
+% de aprobados: 0.0
+
+
+ - - - - - - - - - - - - - -
+REPORTE DE CALIFICACIONES
+ - - - - - - - - - - - - - -
+- - - INFORME DE CALIFICACIONES - - -
+
+ - - - Notas obtenidas - - - 
+
+[98, 97, 9, 6, 95, 94, 93, 92]
+
+ - - - Estadisticas importantes - - -
+
+Nota máxima: 98
+Nota minima: 6
+Promedio: 73.00
+
+- - - ANALISIS - - -
+
+Aprobados: 6
+Reprobados: 2
+% de aprobados: 75.0
+
+
+ - - - - - - - - - - - - - -
+REPORTE DE CALIFICACIONES
+ - - - - - - - - - - - - - -
+- - - INFORME DE CALIFICACIONES - - -
+
+ - - - Notas obtenidas - - - 
+
+[92, 65, 98, 48, 98, 48, 65, 98]
+
+ - - - Estadisticas importantes - - -
+
+Nota máxima: 98
+Nota minima: 48
+Promedio: 76.50
+
+- - - ANALISIS - - -
+
+Aprobados: 4
+Reprobados: 4
+% de aprobados: 50.0
+
+
+ - - - - - - - - - - - - - -
+REPORTE DE CALIFICACIONES
+ - - - - - - - - - - - - - -
+- - - INFORME DE CALIFICACIONES - - -
+
+ - - - Notas obtenidas - - - 
+
+[99, 99, 99, 99, 99, 99, 99, 99]
+
+ - - - Estadisticas importantes - - -
+
+Nota máxima: 99
+Nota minima: 99
+Promedio: 99.00
+
+- - - ANALISIS - - -
+
+Aprobados: 8
+Reprobados: 0
+% de aprobados: 100.0
+
+
+ - - - - - - - - - - - - - -
+REPORTE DE CALIFICACIONES
+ - - - - - - - - - - - - - -
+- - - INFORME DE CALIFICACIONES - - -
+
+ - - - Notas obtenidas - - - 
+
+[11, 11, 11, 11, 11, 11, 11, 11]
+
+ - - - Estadisticas importantes - - -
+
+Nota máxima: 11
+Nota minima: 11
+Promedio: 11.00
+
+- - - ANALISIS - - -
+
+Aprobados: 0
+Reprobados: 8
+% de aprobados: 0.0
+
+
+ - - - - - - - - - - - - - -
+REPORTE DE CALIFICACIONES
+ - - - - - - - - - - - - - -
+- - - INFORME DE CALIFICACIONES - - -
+
+ - - - Notas obtenidas - - - 
+
+[12, 13, 14, 15, 16, 17, 18, 19]
+
+ - - - Estadisticas importantes - - -
+
+Nota máxima: 19
+Nota minima: 12
+Promedio: 15.50
+
+- - - ANALISIS - - -
+
+Aprobados: 0
+Reprobados: 8
+% de aprobados: 0.0
+
